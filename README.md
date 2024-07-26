@@ -31,6 +31,7 @@
 - **bcrypt**：用於雜湊密碼的庫。
 - **jsonwebtoken（JWT）**：生成JSON Web Token用於用戶身份驗證的庫。
 - **cors**：啟用跨源資源共享的中間件。
+- **React.js**:框架運用
 
 ## 設置說明
 
